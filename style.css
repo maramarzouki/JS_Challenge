@@ -1,0 +1,8 @@
+body{
+    margin: 20px;
+}
+
+#addbookBtn, h6, #valider, #reinit {
+    margin: 10px;
+}
+
